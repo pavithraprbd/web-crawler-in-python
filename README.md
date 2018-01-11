@@ -1,5 +1,7 @@
 # python-selenium
 
+<p>You can metion details about login page and credentials to the login to log in to the system.</p>
+
 Pip installs <br>
  &nbsp;&nbsp;selenium<br>
  &nbsp;&nbsp;pyvirtualdisplay<br>
